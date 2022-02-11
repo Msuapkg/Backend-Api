@@ -1,0 +1,4 @@
+#Cosas que no quiero que se suban a github 
+
+node_modules
+package-lock.json
