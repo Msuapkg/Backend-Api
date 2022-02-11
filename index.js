@@ -6,5 +6,5 @@ app.get('/', function (req, res) {
 });
 
 app.listen(3000, () => {
-    console.log(`El servidor se está escuchando en el puerto: ${3000}`);
+    console.log(`Hola desde el puerto: ${3000}`);
 });
